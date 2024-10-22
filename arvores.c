@@ -3,7 +3,7 @@
 #include <string.h>
 #include <time.h>       
 #include "arvores.h"
-
+//Commit de teste do Github Desketop
 double arvore_binaria(int instancia_num) {
     double tempo = 0;
     clock_t begin = clock();
